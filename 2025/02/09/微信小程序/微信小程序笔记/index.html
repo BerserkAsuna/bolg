@@ -1,0 +1,365 @@
+<!doctype html>
+<html lang="en"><head>
+<title>微信小程序 - BerserkAsuna</title>
+<meta charset="UTF-8">
+<meta name="keywords" content="">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
+
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+<meta name="description" content="一、登录前后cookies不一致参考：https:&#x2F;&#x2F;blog.csdn.net&#x2F;czx0132&#x2F;article&#x2F;details&#x2F;110101854方法：登录时将cookies持久化存储,登录后携带该cookies发送请求 setCookies 123456789101112&#x2F;&#x2F; Set-Cookie字符串获取            var cookie &#x3D; res.header[&#x27;Se">
+<meta property="og:type" content="article">
+<meta property="og:title" content="微信小程序">
+<meta property="og:url" content="https://transcendent-chebakia-3b2b5c.netlify.app/2025/02/09/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E7%AC%94%E8%AE%B0/index.html">
+<meta property="og:site_name" content="BerserkAsuna">
+<meta property="og:description" content="一、登录前后cookies不一致参考：https:&#x2F;&#x2F;blog.csdn.net&#x2F;czx0132&#x2F;article&#x2F;details&#x2F;110101854方法：登录时将cookies持久化存储,登录后携带该cookies发送请求 setCookies 123456789101112&#x2F;&#x2F; Set-Cookie字符串获取            var cookie &#x3D; res.header[&#x27;Se">
+<meta property="og:locale" content="en_US">
+<meta property="article:published_time" content="2025-02-09T11:39:53.644Z">
+<meta property="article:modified_time" content="2025-02-09T11:56:22.652Z">
+<meta property="article:author" content="BerserkAsuna">
+<meta name="twitter:card" content="summary">
+
+<link rel="stylesheet" href="/lib/fancybox/fancybox.css">
+<link rel="stylesheet" href="/lib/mdui_043tiny/mdui.css">
+
+
+<link rel="stylesheet" href="/lib/iconfont/iconfont.css?v=1739104036603">
+
+<link rel="stylesheet" href="/css/style.css?v=1739104036603">
+
+
+
+
+    
+        <link rel="stylesheet" href="/custom.css?v=1739104036603">
+    
+
+
+
+<script src="/lib/mdui_043tiny/mdui.js" async></script>
+<script src="/lib/fancybox/fancybox.umd.js" async></script>
+<script src="/lib/lax.min.js" async></script>
+
+
+<script async src="/js/app.js?v=1739104036603"></script>
+
+ 
+
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4D4ZJ9G024"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag("js", new Date());
+
+  gtag("config", "G-4D4ZJ9G024");
+</script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/atom-one-dark.min.css">
+
+
+<link rel="stylesheet"  href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/atom-one-dark.min.css">
+<meta name="generator" content="Hexo 7.3.0"></head><body class="nexmoe mdui-drawer-body-left"><div id="nexmoe-background"><div class="nexmoe-bg" style="background-image: url(https://i.imgs.ovh/2025/02/09/2Bjr.png)"></div><div class="mdui-appbar mdui-shadow-0"><div class="mdui-toolbar"><a class="mdui-btn mdui-btn-icon mdui-ripple" mdui-drawer="{target: &#039;#drawer&#039;, swipe: true}" title="menu"><i class="mdui-icon nexmoefont icon-menu"></i></a><div class="mdui-toolbar-spacer"></div><a class="mdui-btn mdui-btn-icon" href="/" title="BerserkAsuna"><img src="https://i.imgs.ovh/2025/02/08/WGJ1.png" alt="BerserkAsuna"></a></div></div></div><div id="nexmoe-header"><div class="nexmoe-drawer mdui-drawer" id="drawer">
+    <div class="nexmoe-avatar mdui-ripple">
+        <a href="/" title="BerserkAsuna">
+            <img src="https://i.imgs.ovh/2025/02/08/WGJ1.png" alt="BerserkAsuna" alt="BerserkAsuna">
+        </a>
+    </div>
+    <div class="nexmoe-count">
+        <div><span>Articles</span>3</div>
+        <div><span>Tags</span>1</div>
+        <div><span>Categories</span>0</div>
+    </div>
+    <div class="nexmoe-list mdui-list" mdui-collapse="{accordion: true}">
+        
+        <a class="nexmoe-list-item mdui-list-item mdui-ripple false" href="/" title="回到首页">
+            <i class="mdui-list-item-icon nexmoefont icon-home"></i>
+            <div class="mdui-list-item-content">
+                回到首页
+            </div>
+        </a>
+        
+        <a class="nexmoe-list-item mdui-list-item mdui-ripple false" href="/archive.html" title="文章归档">
+            <i class="mdui-list-item-icon nexmoefont icon-container"></i>
+            <div class="mdui-list-item-content">
+                文章归档
+            </div>
+        </a>
+        
+        <a class="nexmoe-list-item mdui-list-item mdui-ripple false" href="/PY.html" title="我的朋友">
+            <i class="mdui-list-item-icon nexmoefont icon-unorderedlist"></i>
+            <div class="mdui-list-item-content">
+                我的朋友
+            </div>
+        </a>
+        
+    </div>
+    
+    
+        
+        <div class="nexmoe-widget-wrap">
+    <div class="nexmoe-widget nexmoe-search">
+         
+            <form id="search_form" action_e="https://cn.bing.com/search?" onsubmit="return search();">
+                <label><input id="search_value" name="q" type="search" placeholder="Search"></label>
+            </form>
+         
+    </div>
+</div>
+
+
+
+
+    
+        
+        <div class="nexmoe-widget-wrap">
+	<div class="nexmoe-widget nexmoe-social">
+		<a
+			class="mdui-ripple"
+			href="https://space.bilibili.com/85749015"
+			target="_blank"
+			mdui-tooltip="{content: '哔哩哔哩'}"
+			style="
+				color: rgb(231, 106, 141);
+				background-color: rgba(231, 106, 141, .1);
+			"
+		>
+			<i
+				class="nexmoefont icon-bilibili"
+			></i> </a
+		><a
+			class="mdui-ripple"
+			href="https://github.com/BerserkAsuna/bolg"
+			target="_blank"
+			mdui-tooltip="{content: 'GitHub'}"
+			style="
+				color: rgb(25, 23, 23);
+				background-color: rgba(25, 23, 23, .1);
+			"
+		>
+			<i
+				class="nexmoefont icon-github"
+			></i> </a
+		>
+	</div>
+</div>
+
+    
+        
+        
+
+    
+        
+        
+  <div class="nexmoe-widget-wrap">
+    <div id="randomtagcloud" class="nexmoe-widget tagcloud nexmoe-rainbow">
+      <a href="/tags/math/" style="font-size: 10px;">math</a>
+    </div>
+    
+      <script>
+        var maxTagcloud = parseInt(17);
+        var tags_length = parseInt(1);
+        var tags_arr = [];
+        for(var i = 0; i < tags_length; i++){
+          tags_arr.push(i);
+        }
+        tags_arr.sort(function (l, r) {
+          return Math.random() > 0.5 ? -1 : 1;
+        });
+        tags_arr = tags_arr.slice(0, maxTagcloud < tags_length ? tags_length - maxTagcloud : 0);
+        for(var tag_i = 0; tag_i < tags_arr.length; tag_i++){
+          document.getElementById("randomtagcloud").children[tags_arr[tag_i]].style.display = 'none';
+        }
+      </script>
+    
+  </div>
+
+    
+        
+        <!-- 一言 -->
+<div class="nexmoe-widget-wrap">
+  <h3 class="nexmoe-widget-title">
+    一言
+  </h3>
+  <div class="nexmoe-widget">
+    <ul class="hitokoto-box">
+      <li id="hitokoto_text_parent" class="hitokoto-text" hitokotoCategory="">
+        <a href="#" id="hitokoto_text">
+          
+        </a>
+        <a href="#" id="hitokoto_error_text" style="display: none;">
+          
+        </a>
+      </li>
+    </ul>
+  </div>
+</div>
+
+<script>
+  let hitokotoText = document.getElementById('hitokoto_text')
+  let hitokotoErroText = document.getElementById('hitokoto_error_text')
+  let hitokotoCategory = document.getElementById('hitokoto_text_parent').getAttribute('hitokotoCategory')
+  window.addEventListener('load', function () {
+    let url = 'https://v1.hitokoto.cn'
+    if (hitokotoCategory) {
+      url += '?c=' + hitokotoCategory
+    }
+    fetch(url)
+      .then(response => response.json())
+      .then(data => {
+        hitokotoText.innerText = "「 " + data.hitokoto + " 」 from " + data.from
+        hitokotoText.href = 'https://hitokoto.cn/?uuid=' + data.uuid
+      })
+      .catch((reason) => {
+        console.error(11, reason)
+        hitokotoText.style.display = 'none'
+        hitokotoErroText.style.display = 'block'
+      })
+  })
+</script>
+    
+        
+        
+  <div class="nexmoe-widget-wrap">
+    <h3 class="nexmoe-widget-title">Recent Posts</h3>
+    <div class="nexmoe-widget">
+      <ul>
+        
+          <li>
+            <a href="/2025/02/09/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E7%AC%94%E8%AE%B0/">微信小程序</a>
+          </li>
+        
+          <li>
+            <a href="/2025/02/09/%E6%95%B0%E5%AD%A6/nepune/">数二</a>
+          </li>
+        
+          <li>
+            <a href="/2025/02/08/Java/hello-world/">Hello World</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+
+    
+   
+    <div class="nexmoe-copyright">
+        &copy; 2025 BerserkAsuna
+        Powered by <a href="http://hexo.io/" target="_blank">Hexo</a>
+        & <a href="https://github.com/theme-nexmoe/hexo-theme-nexmoe" target="_blank">Nexmoe</a>
+        
+    </div>
+</div><!-- .nexmoe-drawer --></div><div id="nexmoe-content"><div class="nexmoe-primary"><div class="nexmoe-post">
+  <article>
+    
+        <div class="nexmoe-post-cover absolute" style="padding-top: 37.5%;"> 
+            <img src="https://i.imgs.ovh/2025/02/09/2dd0.jpeg" alt="微信小程序" loading="lazy">
+            <h1>微信小程序</h1>
+        </div>
+    
+    
+    <div class="nexmoe-post-meta">
+    <div class="nexmoe-rainbow">
+        <a class="nexmoefont icon-calendar-fill">2025年02月09日</a>
+        
+        
+    </div>
+    
+    
+    
+    
+    
+</div>
+
+    <p><strong>一、登录前后cookies不一致</strong><br>参考：<a target="_blank" rel="noopener" href="https://blog.csdn.net/czx0132/article/details/110101854">https://blog.csdn.net/czx0132/article/details/110101854</a><br>方法：登录时将cookies持久化存储,登录后携带该cookies发送请求</p>
+<p>setCookies</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br></pre></td><td class="code"><pre><span class="line">// Set-Cookie字符串获取</span><br><span class="line">            var cookie = res.header[&#x27;Set-Cookie&#x27;]</span><br><span class="line">            // 字符串分割成数组</span><br><span class="line">            var cookieArray = cookie.split(/,(?=[^,]*=)/)</span><br><span class="line">            // 分号拼接数组</span><br><span class="line">            var newCookie = cookieArray.join(&#x27;;&#x27;)</span><br><span class="line">            // 存储拼接后的cookie</span><br><span class="line">            try &#123;</span><br><span class="line">              wx.setStorageSync(&#x27;cookie&#x27;, newCookie)</span><br><span class="line">            &#125; catch (error) &#123;</span><br><span class="line">              log.error(&#x27;setStorageSync cookie fail&#x27;)</span><br><span class="line">            &#125;</span><br></pre></td></tr></table></figure>
+
+<p>getCookies</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br></pre></td><td class="code"><pre><span class="line">uni.request(&#123;</span><br><span class="line">          url: &#x27;http://127.0.0.1:9003/user/getUserPermissions&#x27;,</span><br><span class="line">          method: &#x27;POST&#x27;,</span><br><span class="line">          header: &#123;</span><br><span class="line">            &#x27;cookie&#x27;: uni.getStorageSync(&quot;cookie&quot;),</span><br><span class="line">            &#x27;content-type&#x27;: &#x27;application/x-www-form-urlencoded&#x27;</span><br><span class="line">          &#125;,</span><br><span class="line">          data: &#123;</span><br><span class="line">            username: username,</span><br><span class="line">          &#125;,</span><br><span class="line">          success: function(res) &#123;</span><br><span class="line">            // 请求成功的处理</span><br><span class="line">            console.log(&#x27;请求成功&#x27;, res.data);</span><br><span class="line">          &#125;,</span><br><span class="line">          fail() &#123;</span><br><span class="line">            uni.showToast(&#123;</span><br><span class="line">              title: &quot;您的权限不足&quot;,</span><br><span class="line">              duration: 1500,</span><br><span class="line">              icon: &#x27;none &#x27;,</span><br><span class="line">            &#125;)</span><br><span class="line">          &#125;</span><br><span class="line">        &#125;)</span><br></pre></td></tr></table></figure>
+
+<p><strong>二、状态码400</strong><br>    (1)传参错误，可能是格式，可能是参数个数<br>    (2)参数过长<br>    (3)数据类型的错误，也许应该传form-data</p>
+<p><strong>三、Property “value” was accessed during render but is not defined on instance.</strong><br>原因：变量未初始化</p>
+<p><strong>四、表格格式数据提交</strong></p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br></pre></td><td class="code"><pre><span class="line">async login() &#123;</span><br><span class="line">        uni.request(&#123;</span><br><span class="line">          url: &#x27;http://192.168.1.133:9003/api/auth/login&#x27;,</span><br><span class="line">          method: &#x27;POST&#x27;,</span><br><span class="line">          header: &#123;</span><br><span class="line">            &#x27;content-type&#x27;: &#x27;application/x-www-form-urlencoded&#x27;</span><br><span class="line">          &#125;,</span><br><span class="line">          data: &#123;</span><br><span class="line">            username: this.username,</span><br><span class="line">            password: this.password</span><br><span class="line">          &#125;,</span><br><span class="line">          success: (res) =&gt; &#123;</span><br><span class="line">            uni.showToast(&#123;</span><br><span class="line">              title: &quot;登录成功&quot;,</span><br><span class="line">              duration: 1500,</span><br><span class="line">              icon: &#x27;none&#x27;,</span><br><span class="line">            &#125;);</span><br><span class="line">            </span><br><span class="line">          &#125;,</span><br><span class="line">          fail: (res) =&gt; &#123;</span><br><span class="line">            uni.showToast(&#123;</span><br><span class="line">              title: &quot;登录失败&quot;,</span><br><span class="line">              duration: 1500,</span><br><span class="line">              icon: &#x27;none&#x27;,</span><br><span class="line">            &#125;);</span><br><span class="line">          &#125;</span><br><span class="line">        &#125;)</span><br><span class="line"></span><br><span class="line">      &#125;</span><br></pre></td></tr></table></figure>
+
+<p><strong>五、持久化存储</strong><br>存储示例：</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">uni.setStorageSync(&#x27;username&#x27;,this.username)</span><br></pre></td></tr></table></figure>
+<p>读取示例：</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">this.username = uni.getStorageSync(&#x27;username&#x27;);</span><br></pre></td></tr></table></figure>
+
+<p><strong>六、小程序动态设置标题</strong></p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">onLoad: function(option) &#123;</span><br><span class="line">      uni.setNavigationBarTitle(&#123;</span><br><span class="line">        title: option.clazz,</span><br><span class="line">      &#125;)</span><br><span class="line">    &#125;,</span><br></pre></td></tr></table></figure>
+
+
+<p><strong>七、小程序发送网络请求</strong></p>
+<p>前提：已经在main.js中设置过请求根路径<br>使用示例：<br>1.get方法</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">async getRecommendList() &#123;</span><br><span class="line">    const &#123;</span><br><span class="line">        data: res</span><br><span class="line">    &#125; = await uni.$http.get(&#x27;/goods/qsearch&#x27;)</span><br><span class="line">    this.recommendList = res.data</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<p>2.post方法</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">const &#123;</span><br><span class="line">        data: loginResult</span><br><span class="line">        &#125; = await uni.$http.post(&#x27;/api/public/v1/users/wxlogin&#x27;, query)</span><br><span class="line">        if (loginResult.meta.status !== 200) return uni.$showMsg(&#x27;登录失败！&#x27;)</span><br></pre></td></tr></table></figure>
+
+<p><strong>八、小程序封装方法</strong><br>在main.js中加入</p>
+<figure class="highlight js"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">uni.<span class="property">$showMsg</span> = <span class="keyword">function</span>(<span class="params">title = <span class="string">&#x27;数据加载失败! &#x27;</span>, duration = <span class="number">1500</span></span>) &#123;</span><br><span class="line">  uni.<span class="title function_">showToast</span>(&#123;</span><br><span class="line">    title,</span><br><span class="line">    duration,</span><br><span class="line">    <span class="attr">icon</span>: <span class="string">&#x27;none &#x27;</span>,</span><br><span class="line">  &#125;)</span><br><span class="line"></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<p>使用示例:</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">submit() &#123;</span><br><span class="line">    if (!this.token) return this.delayNavigate()</span><br><span class="line">    return uni.$showMsg(&#x27;已提交审核&#x27;)</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p><strong>九、小程序设置请求根路径</strong><br>在main.js中加入如下代码</p>
+<figure class="highlight js"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">//导入网络请求包</span></span><br><span class="line"><span class="keyword">import</span> &#123;</span><br><span class="line">  $http</span><br><span class="line">&#125; <span class="keyword">from</span> <span class="string">&#x27;@escook/request-miniprogram&#x27;</span></span><br><span class="line"></span><br><span class="line">uni.<span class="property">$http</span> = $http</span><br><span class="line"></span><br><span class="line"><span class="comment">//请求根路径</span></span><br><span class="line">$http.<span class="property">baseUrl</span> = <span class="string">&#x27;http://192.168.1.133:9003&#x27;</span></span><br><span class="line"><span class="string">``</span><span class="string">``</span></span><br><span class="line"></span><br><span class="line">**十、页面跳转**</span><br><span class="line"></span><br><span class="line"><span class="string">``</span><span class="string">`vue</span></span><br><span class="line"><span class="string">gotoDetail(item) &#123;</span></span><br><span class="line"><span class="string">    uni.navigateTo(&#123;</span></span><br><span class="line"><span class="string">        url: &#x27;/subpkg/goods_detail/goods_detail?goods_id=&#x27; + item.id</span></span><br><span class="line"><span class="string">    &#125;)</span></span><br><span class="line"><span class="string">&#125;</span></span><br></pre></td></tr></table></figure>
+
+<p>tabbar跳转：</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br></pre></td><td class="code"><pre><span class="line">gotoDetail(item) &#123;</span><br><span class="line">    uni.switchTab(&#123;</span><br><span class="line">          url: &#x27;../today/today&#x27;,</span><br><span class="line">          success: () =&gt; &#123;</span><br><span class="line">            uni.showToast(&#123;</span><br><span class="line">              title: &quot;登录成功&quot;,</span><br><span class="line">              duration: 1500,</span><br><span class="line">              icon: &#x27;none &#x27;,</span><br><span class="line">            &#125;)</span><br><span class="line">          &#125;,</span><br><span class="line">          fail: (res) =&gt; &#123;</span><br><span class="line">            uni.showToast(&#123;</span><br><span class="line">              title: &quot;登录失败&quot;,</span><br><span class="line">              duration: 1500,</span><br><span class="line">              icon: &#x27;none &#x27;,</span><br><span class="line">            &#125;)</span><br><span class="line">          &#125;</span><br><span class="line">        &#125;)</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p><strong>十一、</strong></p>
+
+    
+  </article>
+
+  
+      
+    <div class="nexmoe-post-copyright">
+        <strong>Author：</strong>BerserkAsuna<br>
+        <strong>Link：</strong><a href="https://transcendent-chebakia-3b2b5c.netlify.app/2025/02/09/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E7%AC%94%E8%AE%B0/" title="https:&#x2F;&#x2F;transcendent-chebakia-3b2b5c.netlify.app&#x2F;2025&#x2F;02&#x2F;09&#x2F;%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F&#x2F;%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E7%AC%94%E8%AE%B0&#x2F;" target="_blank" rel="noopener">https:&#x2F;&#x2F;transcendent-chebakia-3b2b5c.netlify.app&#x2F;2025&#x2F;02&#x2F;09&#x2F;%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F&#x2F;%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E7%AC%94%E8%AE%B0&#x2F;</a><br>
+        
+            <strong>版权声明：</strong>本文采用 <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/cn/deed.zh" target="_blank">CC BY-NC-SA 3.0 CN</a> 协议进行许可
+
+        
+    </div>
+
+
+  
+  
+  <div class="nexmoe-post-meta nexmoe-rainbow">
+   
+    
+</div>
+  
+  
+    <script async src="/js/copy-codeblock.js?v=1739104036594"></script>
+  
+
+  
+      <div class="nexmoe-post-footer">
+          
+      </div>
+  
+</div></div><div class="nexmoe-post-right">    <div class="nexmoe-fixed">
+        <div class="nexmoe-tool">
+
+            
+
+            
+            
+
+            
+
+            <a href="#nexmoe-content" class="backtop toc-link" aria-label="Back To Top" title="top"><button class="mdui-fab mdui-ripple"><i class="nexmoefont icon-caret-top"></i></button></a>
+        </div>
+    </div>
+</div></div><div id="nexmoe-footer"><!--!--></div><div id="nexmoe-search-space"><div class="search-container"><div class="search-header"><div class="search-input-container"><input class="search-input" type="text" placeholder="Search" onInput="sinput();"></div><a class="search-close" onclick="sclose();">×</a></div><div class="search-body"></div></div></div><div><script src='https://sentry.mixcm.com/js-sdk-loader/affb515ef7b517cb3fc0dc63d65a9fc2.min.js' crossorigin="anonymous"></script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2058306854838448" crossorigin="anonymous"></script>
+</div></body></html>
