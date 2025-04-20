@@ -1,0 +1,118 @@
+{
+    "monday": [{
+        "title": "夏日口袋",
+        "time": "22:30~",
+        "episodes": "全25话",
+        "image": "images/anime1.jpg",
+        "god": "字幕组:Ani",
+        "ladder": "no",
+        "url": "https://fitacg.com/anime/18350"
+    }],
+    "tuesday": [{
+            "title": "紫云寺家的孩子们",
+            "time": "21:30~",
+            "episodes": "全12话",
+            "image": "images/anime2.jpg",
+            "god": "字幕组:Ani",
+            "ladder": "yes",
+            "url": "https://fitacg.com/anime/4427"
+        },
+        {
+            "title": "阳光马达棒球场",
+            "time": "23:00~",
+            "episodes": "全12话",
+            "image": "images/anime3.jpg",
+            "god": "字幕组:Ani",
+            "ladder": "no",
+            "url": "https://fitacg.com/anime/17979"
+        },
+        {
+            "title": "启示录酒店",
+            "time": "24:34~",
+            "episodes": "全12话",
+            "image": "images/anime4.jpg",
+            "god": "字幕组:Ani",
+            "ladder": "no",
+            "url": "https://fitacg.com/anime/17812"
+        }
+    ],
+    "wednesday": [],
+    "thursday": [{
+        "title": "忍者与杀手二人组的日常生活",
+        "time": "21:00~",
+        "episodes": "全12话",
+        "image": "images/anime5.jpg",
+        "god": "字幕组:Ani",
+        "ladder": "no",
+        "url": "https://fitacg.com/anime/18354"
+    }],
+    "friday": [{
+            "title": "男女之间存在友情吗（不存在）",
+            "time": "21:30~",
+            "episodes": "全12话",
+            "image": "images/anime6.jpg",
+            "god": "字幕组:Ani",
+            "ladder": "no",
+            "url": "https://fitacg.com/anime/4113"
+        },
+        {
+            "title": "药屋少女的呢喃第2期",
+            "time": "22:00~",
+            "episodes": "全24话",
+            "image": "images/anime7.jpg",
+            "god": "字幕组:Ani",
+            "ladder": "no",
+            "url": "https://fitacg.com/anime/17455"
+        }
+    ],
+    "saturday": [{
+        "title": "九龙大众浪漫",
+        "time": "22:00~",
+        "episodes": "全13话",
+        "image": "images/anime8.jpg",
+        "god": "字幕组:Ani",
+        "ladder": "no",
+        "url": "https://fitacg.com/anime/18040"
+    }, {
+        "title": "乡下大叔成为剑圣",
+        "time": "22:30~",
+        "episodes": "全12话",
+        "image": "images/anime9.jpg",
+        "god": "字幕组:Ani",
+        "ladder": "no",
+        "url": "https://fitacg.com/anime/17713"
+    }, {
+        "title": "mono女孩",
+        "time": "23:00~",
+        "episodes": "全13话",
+        "image": "images/anime10.jpg",
+        "god": "字幕组:Ani",
+        "ladder": "no",
+        "url": "https://fitacg.com/anime/17465"
+    }, {
+        "title": "时光流逝饭菜依旧美味",
+        "time": "23:30~",
+        "episodes": "全12话",
+        "image": "images/anime11.jpg",
+        "god": "字幕组:Ani",
+        "ladder": "no",
+        "url": "https://fitacg.com/anime/18172"
+    }],
+    "sunday": [{
+        "title": "赛马娘芦毛灰姑娘",
+        "time": "16:00~",
+        "episodes": "P1=13话",
+        "image": "images/anime12.jpg",
+        "god": "字幕组:Ani",
+        "ladder": "no",
+        "url": "https://fitacg.com/anime/17817"
+    }, {
+        "title": "魔女与使魔",
+        "time": "16:00~",
+        "episodes": "全25话",
+        "image": "images/anime13.jpg",
+        "god": "字幕组:Ani",
+        "ladder": "no",
+        "url": "https://fitacg.com/anime/17821"
+    }]
+}

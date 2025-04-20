@@ -1,0 +1,239 @@
+/* 基本样式重置 */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Microsoft YaHei', sans-serif;
+    background-color: #f5f5f5;
+    color: #333;
+}
+
+/* 页头样式 */
+header {
+    background-color: #1a7869;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+header h1 {
+    margin-bottom: 15px;
+}
+
+/* 选项卡导航 */
+.tab-nav {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    flex-wrap: wrap;
+    background-color: #15665a;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.tab-nav li {
+    margin: 5px;
+}
+
+.tab-nav li a {
+    color: white;
+    text-decoration: none;
+    padding: 8px 15px;
+    border-radius: 4px;
+    transition: all 0.3s;
+    display: block;
+}
+
+.tab-nav li a.active {
+    background-color: white;
+    color: #1a7869;
+    font-weight: bold;
+}
+
+.tab-nav li a:hover:not(.active) {
+    background-color: rgba(255, 255, 255, 0.2);
+}
+
+/* 主内容区域 */
+main {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* 选项卡内容 */
+.tab-content {
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+}
+
+.day-schedule {
+    display: none;
+    padding: 20px;
+}
+
+.day-schedule.active {
+    display: block;
+    animation: fadeIn 0.5s;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
+
+.day-schedule h2 {
+    color: #1a7869;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    border-bottom: 2px solid #f0f0f0;
+}
+
+/* 动漫网格布局 */
+.anime-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 20px;
+}
+
+/* 动漫卡片样式 */
+.anime-card {
+    position: relative;
+    background-color: white;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s, box-shadow 0.3s;
+    border: 1px solid #f0f0f0;
+
+    max-width: 200px;
+    margin: 0 auto;
+}
+
+/* 添加无动漫内容时的提示样式 */
+.no-anime-message {
+    /* 横跨整个网格 */
+    grid-column: 1 / -1;
+    text-align: center;
+    padding: 30px;
+    color: #999;
+    font-size: 16px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    margin: 20px 0;
+}
+
+.anime-card .god {
+    display: inline-block;
+    background-color: #1a7869;
+    color: white;
+    padding: 2px 5px;
+    font-size: 12px;
+    border-radius: 3px;
+}
+
+.anime-card .needLadder {
+    display: inline-block;
+    background-color: #ce0000;
+    color: white;
+    padding: 2px 5px;
+    font-size: 12px;
+    border-radius: 3px;
+}
+
+.anime-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+}
+
+.anime-card .time {
+    background-color: rgba(0, 0, 0, 0.7);
+    color: white;
+    padding: 5px;
+    position: absolute;
+    /* 保持绝对定位 */
+    top: 0;
+    left: 0;
+    font-size: 14px;
+    z-index: 1;
+    /* 确保时间显示在图片上方 */
+}
+
+.anime-card a {
+    text-decoration: none;
+    color: inherit;
+    display: block;
+    position: relative;
+}
+
+.anime-card img {
+    width: 100%;
+    height: 180px;
+    object-fit: cover;
+    display: block;
+}
+
+.anime-card .info {
+    padding: 10px;
+}
+
+.anime-card h3 {
+    font-size: 16px;
+    margin-bottom: 5px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.anime-card .episodes {
+    display: inline-block;
+    background-color: #f0f0f0;
+    padding: 2px 5px;
+    font-size: 12px;
+    border-radius: 3px;
+    margin-right: 5px;
+}
+
+/* 页脚样式 */
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #333;
+    color: white;
+    margin-top: 40px;
+}
+
+/* 响应式设计 */
+@media (max-width: 768px) {
+    .anime-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+        gap: 20px;
+    }
+
+    .tab-nav {
+        flex-direction: row;
+        overflow-x: auto;
+        padding: 10px 5px;
+    }
+
+    .tab-nav li {
+        margin: 0 2px;
+    }
+
+    .tab-nav li a {
+        padding: 8px 10px;
+        font-size: 14px;
+        white-space: nowrap;
+    }
+}

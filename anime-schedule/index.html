@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>每周动漫时间表</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+
+<body>
+    <header>
+        <h1>每周动漫时间表</h1>
+        <nav>
+            <ul class="tab-nav">
+                <li><a href="#" data-day="monday" class="active">周一</a></li>
+                <li><a href="#" data-day="tuesday">周二</a></li>
+                <li><a href="#" data-day="wednesday">周三</a></li>
+                <li><a href="#" data-day="thursday">周四</a></li>
+                <li><a href="#" data-day="friday">周五</a></li>
+                <li><a href="#" data-day="saturday">周六</a></li>
+                <li><a href="#" data-day="sunday">周日</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <div class="tab-content">
+            <section id="monday" class="day-schedule active">
+                <h2>周一（月）</h2>
+                <div class="anime-grid" id="monday-grid">
+                </div>
+            </section>
+
+            <section id="tuesday" class="day-schedule">
+                <h2>周二（火）</h2>
+                <div class="anime-grid" id="tuesday-grid">
+                </div>
+            </section>
+
+            <section id="wednesday" class="day-schedule">
+                <h2>周三（水）</h2>
+                <div class="anime-grid" id="wednesday-grid">
+                </div>
+            </section>
+
+            <section id="thursday" class="day-schedule">
+                <h2>周四（木）</h2>
+                <div class="anime-grid" id="thursday-grid">
+                </div>
+            </section>
+
+            <section id="friday" class="day-schedule">
+                <h2>周五（金）</h2>
+                <div class="anime-grid" id="friday-grid">
+                </div>
+            </section>
+
+            <section id="saturday" class="day-schedule">
+                <h2>周六（土）</h2>
+                <div class="anime-grid" id="saturday-grid">
+                </div>
+            </section>
+
+            <section id="sunday" class="day-schedule">
+                <h2>周日（日）</h2>
+                <div class="anime-grid" id="sunday-grid">
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <footer>
+        <p>© 2025 我的看番网站 | 仅供个人使用</p>
+    </footer>
+
+    <script src="js/script.js"></script>
+</body>
+
+</html>
