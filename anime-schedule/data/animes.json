@@ -60,9 +60,9 @@
             "time": "22:00~",
             "episodes": "全24话",
             "image": "images/anime7.jpg",
-            "god": "字幕组:Ani",
+            "god": "字幕组:豌豆字幕组",
             "ladder": "no",
-            "url": "https://fitacg.com/anime/17455"
+            "url": "https://fitacg.com/search?category=anime&s=%E8%8D%AF%E5%B1%8B"
         }
     ],
     "saturday": [{
@@ -78,7 +78,7 @@
         "time": "22:30~",
         "episodes": "全12话",
         "image": "images/anime9.jpg",
-        "god": "字幕组:Ani",
+        "god": "字幕组:LoliHouse",
         "ladder": "no",
         "url": "https://fitacg.com/anime/17713"
     }, {
@@ -96,7 +96,7 @@
         "image": "images/anime11.jpg",
         "god": "字幕组:Ani",
         "ladder": "no",
-        "url": "https://fitacg.com/anime/18172"
+        "url": "https://fitacg.com/search?category=anime&s=food"
     }],
     "sunday": [{
         "title": "赛马娘芦毛灰姑娘",
