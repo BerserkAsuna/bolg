@@ -14,7 +14,7 @@
             "episodes": "全12话",
             "image": "images/anime2.jpg",
             "god": "字幕组:Ani",
-            "ladder": "yes",
+            "ladder": "no",
             "url": "https://fitacg.com/anime/4427"
         },
         {
@@ -31,9 +31,9 @@
             "time": "24:34~",
             "episodes": "全12话",
             "image": "images/anime4.jpg",
-            "god": "字幕组:Ani",
+            "god": "字幕组:哔哩哔哩",
             "ladder": "no",
-            "url": "https://fitacg.com/anime/17812"
+            "url": "https://www.bilibili.com/bangumi/media/md25467691"
         }
     ],
     "wednesday": [],
