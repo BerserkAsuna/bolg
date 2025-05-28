@@ -1,13 +1,5 @@
 {
-    "monday": [{
-        "title": "夏日口袋",
-        "time": "22:30~",
-        "episodes": "全25话",
-        "image": "images/anime1.jpg",
-        "god": "字幕组:Ani",
-        "ladder": "no",
-        "url": "https://fitacg.com/anime/18350"
-    }],
+    "monday": [],
     "tuesday": [{
             "title": "紫云寺家的孩子们",
             "time": "21:30~",
@@ -32,8 +24,8 @@
             "episodes": "全12话",
             "image": "images/anime4.jpg",
             "god": "字幕组:哔哩哔哩",
-            "ladder": "no",
-            "url": "https://www.gugu3.com/index.php/vod/play/id/4135/sid/2/nid/4.html"
+            "ladder": "yes",
+            "url": "https://share.acgnx.se/search.php?sort_id=0&keyword=%E6%9C%AB%E6%97%A5"
         }
     ],
     "wednesday": [],
