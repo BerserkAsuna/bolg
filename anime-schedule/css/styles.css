@@ -151,6 +151,14 @@ main {
     border-radius: 3px;
 }
 
+.anime-card .notWatch {
+    color: #2d64b3;
+}
+
+.anime-card .watching {
+    color: #f74d4a;
+}
+
 .anime-card:hover {
     transform: translateY(-5px);
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
@@ -178,7 +186,8 @@ main {
 
 .anime-card img {
     width: 100%;
-    height: 180px;
+    /* height: 180px; */
+    height: 100%;
     object-fit: cover;
     display: block;
 }

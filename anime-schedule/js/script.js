@@ -1,6 +1,7 @@
 document.addEventListener('DOMContentLoaded', function() {
     // 加载动漫数据
-    fetch('data/animes.json')
+    fetch('data/A2025_4_animes/A2025_4_animes.json')
+    // fetch('data/animes.json')
         .then(response => response.json())
         .then(data => {
             // 生成每天的动漫内容
@@ -47,11 +48,11 @@ function createAnimeCard(anime) {
     card.className = 'anime-card';
     
     card.innerHTML = `
-        <div class="time">${anime.time}~</div>
+        <div class="time">${anime.time}</div>
         <a href="${anime.url}" target="_blank">
             <img src="${anime.image}" alt="${anime.title}">
             <div class="info">
-                <h3>${anime.title}</h3>
+                <h3 class="${anime.isWatch === 'no' ? 'notWatch' : anime.isWatch === 'yes' ? 'watching' : ''}">${anime.title}</h3>
                 <span class="episodes">${anime.episodes}</span>
                 <span class="${anime.ladder === 'no' ? 'god' : anime.ladder === 'yes' ? 'needLadder' : ''}">${anime.god}</span>
             </div>
