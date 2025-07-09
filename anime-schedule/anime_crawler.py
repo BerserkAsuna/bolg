@@ -5,8 +5,8 @@ import requests
 from bs4 import BeautifulSoup
 
 WEEKDAYS = ['monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday', 'sunday']
-FILENAME = "A2025_4_animes"
-url = "https://yuc.wiki/202504"
+FILENAME = "A2025_7_animes"
+url = "https://yuc.wiki/202507"
 
 
 def find_weekday_for_block(block):

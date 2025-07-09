@@ -1,0 +1,718 @@
+{
+    "monday": [{
+            "title": "夏日口袋",
+            "time": "22:30~",
+            "episodes": "(全26话)",
+            "image": "data/A2025_7_animes/images/夏日口袋.jpg",
+            "god": "字幕组:",
+            "ladder": "no",
+            "url": "",
+            "isWatch": "no"
+        },
+        {
+            "title": "鬼人幻灯抄",
+            "time": "23:00~",
+            "episodes": "(全24话)",
+            "image": "data/A2025_7_animes/images/鬼人幻灯抄.jpg",
+            "god": "字幕组:",
+            "ladder": "no",
+            "url": "",
+            "isWatch": "no"
+        },
+        {
+            "title": "禁止入內的鼹鼠",
+            "time": "21:00~",
+            "episodes": "未知集数",
+            "image": "data/A2025_7_animes/images/禁止入內的鼹鼠.jpg",
+            "god": "字幕组:",
+            "ladder": "no",
+            "url": "",
+            "isWatch": "no"
+        },
+        {
+            "title": "美食广场明天见",
+            "time": "21:30~",
+            "episodes": "未知集数",
+            "image": "data/A2025_7_animes/images/美食广场明天见.jpg",
+            "god": "字幕组:",
+            "ladder": "no",
+            "url": "",
+            "isWatch": "no"
+        },
+        {
+            "title": "美男高校地球防卫部 High Collar",
+            "time": "22:00~",
+            "episodes": "(全12话)",
+            "image": "data/A2025_7_animes/images/美男高校地球防卫部_High_Collar.jpg",
+            "god": "字幕组:",
+            "ladder": "no",
+            "url": "",
+            "isWatch": "no"
+        },
+        {
+            "title": "碧蓝之海第2期",
+            "time": "23:30~",
+            "episodes": "(全12话)",
+            "image": "data/A2025_7_animes/images/碧蓝之海第2期.jpg",
+            "god": "字幕组:Ani",
+            "ladder": "no",
+            "url": "https://fitacg.com/search?category=anime&s=%E7%A2%A7%E8%93%9D%E4%B9%8B%E6%B5%B7",
+            "isWatch": "yes"
+        },
+        {
+            "title": "我怎么可能成为你的恋人 不行不行(※不是不可能)",
+            "time": "24:00~",
+            "episodes": "(全12话)",
+            "image": "data/A2025_7_animes/images/我怎么可能成为你的恋人_不行不行不是不可能.jpg",
+            "god": "字幕组:",
+            "ladder": "no",
+            "url": "https://fitacg.com/anime/17954",
+            "isWatch": "yes"
+        },
+        {
+            "title": "坂本日常Part.2",
+            "time": "23:00~",
+            "episodes": "未知集数",
+            "image": "data/A2025_7_animes/images/坂本日常Part2.jpg",
+            "god": "字幕组:",
+            "ladder": "no",
+            "url": "",
+            "isWatch": "no"
+        }
+    ],
+    "tuesday": [{
+            "title": "租借女友第4期 Part.1",
+            "time": "21:00~",
+            "episodes": "P1=12话",
+            "image": "data/A2025_7_animes/images/租借女友第4期_Part1.jpg",
+            "god": "字幕组:",
+            "ladder": "no",
+            "url": "",
+            "isWatch": "no"
+        },
+        {
+            "title": "死灵之子的宇宙恐怖秀",
+            "time": "22:30~",
+            "episodes": "(全12话)",
+            "image": "data/A2025_7_animes/images/死灵之子的宇宙恐怖秀.jpg",
+            "god": "字幕组:",
+            "ladder": "no",
+            "url": "",
+            "isWatch": "no"
+        },
+        {
+            "title": "最近的侦探真没用",
+            "time": "23:00~",
+            "episodes": "(全12话)",
+            "image": "data/A2025_7_animes/images/最近的侦探真没用.jpg",
+            "god": "字幕组:",
+            "ladder": "no",
+            "url": "",
+            "isWatch": "no"
+        },
+        {
+            "title": "杜鹃的婚约第2期",
+            "time": "22:00~",
+            "episodes": "未知集数",
+            "image": "data/A2025_7_animes/images/杜鹃的婚约第2期.jpg",
+            "god": "字幕组:",
+            "ladder": "no",
+            "url": "",
+            "isWatch": "no"
+        },
+        {
+            "title": "阿松第4期",
+            "time": "23:00~",
+            "episodes": "未知集数",
+            "image": "data/A2025_7_animes/images/阿松第4期.jpg",
+            "god": "字幕组:",
+            "ladder": "no",
+            "url": "",
+            "isWatch": "no"
+        },
+        {
+            "title": "Turkey!",
+            "time": "24:29~",
+            "episodes": "未知集数",
+            "image": "data/A2025_7_animes/images/Turkey.jpg",
+            "god": "字幕组:",
+            "ladder": "no",
+            "url": "",
+            "isWatch": "no"
+        }
+    ],
+    "wednesday": [{
+            "title": "Clevatess 魔兽之王与婴儿与尸之勇者",
+            "time": "19:30~",
+            "episodes": "P1=12话",
+            "image": "data/A2025_7_animes/images/Clevatess_魔兽之王与婴儿与尸之勇者.jpg",
+            "god": "字幕组:",
+            "ladder": "no",
+            "url": "",
+            "isWatch": "no"
+        },
+        {
+            "title": "转生成自动贩卖机第2期",
+            "time": "21:00~",
+            "episodes": "(全13话)",
+            "image": "data/A2025_7_animes/images/转生成自动贩卖机第2期.jpg",
+            "god": "字幕组:",
+            "ladder": "no",
+            "url": "",
+            "isWatch": "no"
+        },
+        {
+            "title": "新地狱老师",
+            "time": "22:45~",
+            "episodes": "P1=13话",
+            "image": "data/A2025_7_animes/images/新地狱老师.jpg",
+            "god": "字幕组:",
+            "ladder": "no",
+            "url": "",
+            "isWatch": "no"
+        },
+        {
+            "title": "外星人沐沐",
+            "time": "23:00~",
+            "episodes": "(全24话)",
+            "image": "data/A2025_7_animes/images/外星人沐沐.jpg",
+            "god": "字幕组:",
+            "ladder": "no",
+            "url": "",
+            "isWatch": "no"
+        },
+        {
+            "title": "阴阳回天Re:Birth",
+            "time": "23:45~",
+            "episodes": "(全12话)",
+            "image": "data/A2025_7_animes/images/阴阳回天ReBirth.jpg",
+            "god": "字幕组:",
+            "ladder": "no",
+            "url": "",
+            "isWatch": "no"
+        },
+        {
+            "title": "强者的新传说",
+            "time": "24:15~",
+            "episodes": "(全12话)",
+            "image": "data/A2025_7_animes/images/强者的新传说.jpg",
+            "god": "字幕组:",
+            "ladder": "no",
+            "url": "",
+            "isWatch": "no"
+        },
+        {
+            "title": "盾之勇者成名录第4期",
+            "time": "20:00~",
+            "episodes": "未知集数",
+            "image": "data/A2025_7_animes/images/盾之勇者成名录第4期.jpg",
+            "god": "字幕组:",
+            "ladder": "no",
+            "url": "",
+            "isWatch": "no"
+        },
+        {
+            "title": "转生七王子的魔法全解 第2期",
+            "time": "23:00~",
+            "episodes": "未知集数",
+            "image": "data/A2025_7_animes/images/转生七王子的魔法全解_第2期.jpg",
+            "god": "字幕组:",
+            "ladder": "no",
+            "url": "",
+            "isWatch": "no"
+        },
+        {
+            "title": "帝乃三姐妹原来很好搞定",
+            "time": "23:30~",
+            "episodes": "未知集数",
+            "image": "data/A2025_7_animes/images/帝乃三姐妹原来很好搞定.jpg",
+            "god": "字幕组:",
+            "ladder": "no",
+            "url": "",
+            "isWatch": "no"
+        },
+        {
+            "title": "新吊带袜天使",
+            "time": "24:00~",
+            "episodes": "未知集数",
+            "image": "data/A2025_7_animes/images/新吊带袜天使.jpg",
+            "god": "字幕组:",
+            "ladder": "no",
+            "url": "",
+            "isWatch": "no"
+        }
+    ],
+    "thursday": [{
+            "title": "欢迎来到流放者食堂",
+            "time": "21:00~",
+            "episodes": "(全12话)",
+            "image": "data/A2025_7_animes/images/欢迎来到流放者食堂.jpg",
+            "god": "字幕组:",
+            "ladder": "no",
+            "url": "",
+            "isWatch": "no"
+        },
+        {
+            "title": "神椿市建设中",
+            "time": "22:56~",
+            "episodes": "(全13话)",
+            "image": "data/A2025_7_animes/images/神椿市建设中.jpg",
+            "god": "字幕组:",
+            "ladder": "no",
+            "url": "",
+            "isWatch": "no"
+        },
+        {
+            "title": "胆大党第2期",
+            "time": "23:26~",
+            "episodes": "(全12话)",
+            "image": "data/A2025_7_animes/images/胆大党第2期.jpg",
+            "god": "字幕组:Ani",
+            "ladder": "no",
+            "url": "https://fitacg.com/anime/18115",
+            "isWatch": "yes"
+        },
+        {
+            "title": "水属性的魔法使",
+            "time": "24:28~",
+            "episodes": "(全12话)",
+            "image": "data/A2025_7_animes/images/水属性的魔法使.jpg",
+            "god": "字幕组:Ani",
+            "ladder": "no",
+            "url": "https://fitacg.com/anime/18246",
+            "isWatch": "yes"
+        },
+        {
+            "title": "稗记舞咏(寻神的旅途)",
+            "time": "24:30~",
+            "episodes": "(全13话)",
+            "image": "data/A2025_7_animes/images/稗记舞咏寻神的旅途.jpg",
+            "god": "字幕组:",
+            "ladder": "no",
+            "url": "",
+            "isWatch": "no"
+        },
+        {
+            "title": "石纪元第4期 Part.2",
+            "time": "21:00~",
+            "episodes": "未知集数",
+            "image": "data/A2025_7_animes/images/石纪元第4期_Part2.jpg",
+            "god": "字幕组:",
+            "ladder": "no",
+            "url": "",
+            "isWatch": "no"
+        },
+        {
+            "title": "双人单身露营",
+            "time": "23:30~",
+            "episodes": "未知集数",
+            "image": "data/A2025_7_animes/images/双人单身露营.jpg",
+            "god": "字幕组:",
+            "ladder": "no",
+            "url": "",
+            "isWatch": "no"
+        },
+        {
+            "title": "去唱卡拉OK吧",
+            "time": "20:30~",
+            "episodes": "未知集数",
+            "image": "data/A2025_7_animes/images/去唱卡拉OK吧.jpg",
+            "god": "字幕组:",
+            "ladder": "no",
+            "url": "",
+            "isWatch": "no"
+        },
+        {
+            "title": "为你着迷",
+            "time": "20:30~",
+            "episodes": "未知集数",
+            "image": "data/A2025_7_animes/images/为你着迷.jpg",
+            "god": "字幕组:",
+            "ladder": "no",
+            "url": "",
+            "isWatch": "no"
+        }
+    ],
+    "friday": [{
+            "title": "章鱼哔的原罪",
+            "time": "23:00~",
+            "episodes": "(全12话)",
+            "image": "data/A2025_7_animes/images/章鱼哔的原罪.jpg",
+            "god": "字幕组:Ani",
+            "ladder": "no",
+            "url": "https://fitacg.com/anime/18492",
+            "isWatch": "yes"
+        }, {
+            "title": "为丑女献上花束",
+            "time": "21:30~",
+            "episodes": "(全12话)",
+            "image": "data/A2025_7_animes/images/为丑女献上花束.jpg",
+            "god": "字幕组:",
+            "ladder": "no",
+            "url": "",
+            "isWatch": "no"
+        },
+        {
+            "title": "彻夜之歌第2期",
+            "time": "22:30~",
+            "episodes": "(全12话)",
+            "image": "data/A2025_7_animes/images/彻夜之歌第2期.jpg",
+            "god": "字幕组:",
+            "ladder": "no",
+            "url": "",
+            "isWatch": "no"
+        },
+        {
+            "title": "明日方舟焰烬曙明",
+            "time": "22:30~",
+            "episodes": "(全10话)",
+            "image": "data/A2025_7_animes/images/明日方舟焰烬曙明.jpg",
+            "god": "字幕组:",
+            "ladder": "no",
+            "url": "https://fitacg.com/anime/17573",
+            "isWatch": "no"
+        },
+        {
+            "title": "沉默魔女的秘密",
+            "time": "23:00~",
+            "episodes": "(全13话)",
+            "image": "data/A2025_7_animes/images/沉默魔女的秘密.jpg",
+            "god": "字幕组:拨雪寻春",
+            "ladder": "no",
+            "url": "https://fitacg.com/anime/18507",
+            "isWatch": "yes"
+        },
+        {
+            "title": "渡君的XX即将崩坏",
+            "time": "24:00~",
+            "episodes": "(全12话)",
+            "image": "data/A2025_7_animes/images/渡君的XX即将崩坏.jpg",
+            "god": "字幕组:",
+            "ladder": "no",
+            "url": "",
+            "isWatch": "no"
+        },
+        {
+            "title": "落魄千金被姐姐的原未婚夫溺爱",
+            "time": "24:53~",
+            "episodes": "(全12话)",
+            "image": "data/A2025_7_animes/images/落魄千金被姐姐的原未婚夫溺爱.jpg",
+            "god": "字幕组:",
+            "ladder": "no",
+            "url": "",
+            "isWatch": "no"
+        },
+        {
+            "title": "桃源暗鬼",
+            "time": "22:00~",
+            "episodes": "未知集数",
+            "image": "data/A2025_7_animes/images/桃源暗鬼.jpg",
+            "god": "字幕组:",
+            "ladder": "no",
+            "url": "",
+            "isWatch": "no"
+        },
+        {
+            "title": "拔作岛",
+            "time": "25:05~",
+            "episodes": "未知集数",
+            "image": "data/A2025_7_animes/images/拔作岛.jpg",
+            "god": "字幕组:",
+            "ladder": "no",
+            "url": "",
+            "isWatch": "no"
+        }
+    ],
+    "saturday": [{
+            "title": "新剑勇传说",
+            "time": "16:30~",
+            "episodes": "(全24话)",
+            "image": "data/A2025_7_animes/images/新剑勇传说.jpg",
+            "god": "字幕组:",
+            "ladder": "no",
+            "url": "",
+            "isWatch": "no"
+        },
+        {
+            "title": "新红发少女安妮",
+            "time": "17:25~",
+            "episodes": "(全24话)",
+            "image": "data/A2025_7_animes/images/新红发少女安妮.jpg",
+            "god": "字幕组:",
+            "ladder": "no",
+            "url": "",
+            "isWatch": "no"
+        },
+        {
+            "title": "公爵千金的家庭教师",
+            "time": "24:30~",
+            "episodes": "(全12话)",
+            "image": "data/A2025_7_animes/images/公爵千金的家庭教师.jpg",
+            "god": "字幕组:",
+            "ladder": "no",
+            "url": "",
+            "isWatch": "no"
+        },
+        {
+            "title": "卡片战斗先导者DivinezDeluxe 决胜篇",
+            "time": "07:00~",
+            "episodes": "未知集数",
+            "image": "data/A2025_7_animes/images/卡片战斗先导者DivinezDeluxe_决胜篇.jpg",
+            "god": "字幕组:",
+            "ladder": "no",
+            "url": "",
+            "isWatch": "no"
+        },
+        {
+            "title": "9-nine-支配者的王冠",
+            "time": "21:00~",
+            "episodes": "未知集数",
+            "image": "data/A2025_7_animes/images/9-nine-支配者的王冠.jpg",
+            "god": "字幕组:",
+            "ladder": "no",
+            "url": "",
+            "isWatch": "no"
+        },
+        {
+            "title": "失神勇者与暗杀公主",
+            "time": "22:00~",
+            "episodes": "未知集数",
+            "image": "data/A2025_7_animes/images/失神勇者与暗杀公主.jpg",
+            "god": "字幕组:",
+            "ladder": "no",
+            "url": "",
+            "isWatch": "no"
+        },
+        {
+            "title": "费马的料理",
+            "time": "22:30~",
+            "episodes": "未知集数",
+            "image": "data/A2025_7_animes/images/费马的料理.jpg",
+            "god": "字幕组:",
+            "ladder": "no",
+            "url": "",
+            "isWatch": "no"
+        },
+        {
+            "title": "青春猪头少年不会梦到圣诞服女郎",
+            "time": "22:30~",
+            "episodes": "未知集数",
+            "image": "data/A2025_7_animes/images/青春猪头少年不会梦到圣诞服女郎.jpg",
+            "god": "字幕组:",
+            "ladder": "no",
+            "url": "",
+            "isWatch": "no"
+        },
+        {
+            "title": "更衣人偶坠入爱河第2期",
+            "time": "23:00~",
+            "episodes": "(全12话)",
+            "image": "data/A2025_7_animes/images/更衣人偶坠入爱河第2期.jpg",
+            "god": "字幕组:",
+            "ladder": "no",
+            "url": "https://fitacg.com/anime/18513",
+            "isWatch": "yes"
+        },
+        {
+            "title": "坏女孩",
+            "time": "23:00~",
+            "episodes": "未知集数",
+            "image": "data/A2025_7_animes/images/坏女孩.jpg",
+            "god": "字幕组:",
+            "ladder": "no",
+            "url": "",
+            "isWatch": "no"
+        },
+        {
+            "title": "被勇者队伍开除的白魔导师",
+            "time": "23:00~",
+            "episodes": "未知集数",
+            "image": "data/A2025_7_animes/images/被勇者队伍开除的白魔导师.jpg",
+            "god": "字幕组:",
+            "ladder": "no",
+            "url": "",
+            "isWatch": "no"
+        },
+        {
+            "title": "薰香花朵凛然绽放",
+            "time": "23:30~",
+            "episodes": "(全13话)",
+            "image": "data/A2025_7_animes/images/薰香花朵凛然绽放.jpg",
+            "god": "字幕组:拨雪寻春",
+            "ladder": "no",
+            "url": "https://fitacg.com/anime/17852",
+            "isWatch": "yes"
+        },
+        {
+            "title": "光死去的夏天",
+            "time": "23:55~",
+            "episodes": "未知集数",
+            "image": "data/A2025_7_animes/images/光死去的夏天.jpg",
+            "god": "字幕组:",
+            "ladder": "no",
+            "url": "",
+            "isWatch": "no"
+        },
+        {
+            "title": "雨天遇见狸",
+            "time": "24:30~",
+            "episodes": "未知集数",
+            "image": "data/A2025_7_animes/images/雨天遇见狸.jpg",
+            "god": "字幕组:",
+            "ladder": "no",
+            "url": "",
+            "isWatch": "no"
+        },
+        {
+            "title": "怪兽8号第2期",
+            "time": "22:00~",
+            "episodes": "未知集数",
+            "image": "data/A2025_7_animes/images/怪兽8号第2期.jpg",
+            "god": "字幕组:",
+            "ladder": "no",
+            "url": "",
+            "isWatch": "no"
+        }
+    ],
+    "sunday": [{
+            "title": "你与偶像光之美少女",
+            "time": "07:30~",
+            "episodes": "(年番)",
+            "image": "data/A2025_7_animes/images/你与偶像光之美少女.jpg",
+            "god": "字幕组:",
+            "ladder": "no",
+            "url": "",
+            "isWatch": "no"
+        },
+        {
+            "title": "公主专场管弦乐",
+            "time": "08:00~",
+            "episodes": "(年番)",
+            "image": "data/A2025_7_animes/images/公主专场管弦乐.jpg",
+            "god": "字幕组:",
+            "ladder": "no",
+            "url": "",
+            "isWatch": "no"
+        },
+        {
+            "title": "秘密的偶像公主RING篇",
+            "time": "08:30~",
+            "episodes": "(长篇)",
+            "image": "data/A2025_7_animes/images/秘密的偶像公主RING篇.jpg",
+            "god": "字幕组:",
+            "ladder": "no",
+            "url": "",
+            "isWatch": "no"
+        },
+        {
+            "title": "魔女与使魔",
+            "time": "16:00~",
+            "episodes": "(全26话)",
+            "image": "data/A2025_7_animes/images/魔女与使魔.jpg",
+            "god": "字幕组:Ani",
+            "ladder": "no",
+            "url": "https://fitacg.com/anime/17821",
+            "isWatch": "yes"
+        },
+        {
+            "title": "地缚少年花子君第2期 Part.2",
+            "time": "15:30~",
+            "episodes": "未知集数",
+            "image": "data/A2025_7_animes/images/地缚少年花子君第2期_Part2.jpg",
+            "god": "字幕组:",
+            "ladder": "no",
+            "url": "",
+            "isWatch": "no"
+        },
+        {
+            "title": "可爱史莱姆噗尼露第2期",
+            "time": "16:30~",
+            "episodes": "未知集数",
+            "image": "data/A2025_7_animes/images/可爱史莱姆噗尼露第2期.jpg",
+            "god": "字幕组:",
+            "ladder": "no",
+            "url": "",
+            "isWatch": "no"
+        },
+        {
+            "title": "瑠璃的宝石",
+            "time": "20:30~",
+            "episodes": "(全13话)",
+            "image": "data/A2025_7_animes/images/瑠璃的宝石.jpg",
+            "god": "字幕组:Ani",
+            "ladder": "no",
+            "url": "https://fitacg.com/anime/17868",
+            "isWatch": "yes"
+        },
+        {
+            "title": "异世界默示录麦诺格拉",
+            "time": "21:30~",
+            "episodes": "未知集数",
+            "image": "data/A2025_7_animes/images/异世界默示录麦诺格拉.jpg",
+            "god": "字幕组:",
+            "ladder": "no",
+            "url": "",
+            "isWatch": "no"
+        },
+        {
+            "title": "活死喵之夜",
+            "time": "22:00~",
+            "episodes": "未知集数",
+            "image": "data/A2025_7_animes/images/活死喵之夜.jpg",
+            "god": "字幕组:",
+            "ladder": "no",
+            "url": "",
+            "isWatch": "no"
+        },
+        {
+            "title": "废渊战鬼",
+            "time": "22:30~",
+            "episodes": "未知集数",
+            "image": "data/A2025_7_animes/images/废渊战鬼.jpg",
+            "god": "字幕组:",
+            "ladder": "no",
+            "url": "",
+            "isWatch": "no"
+        },
+        {
+            "title": "与游戏中心的少女异文化交流的故事",
+            "time": "22:30~",
+            "episodes": "(全12话)",
+            "image": "data/A2025_7_animes/images/与游戏中心的少女异文化交流的故事.jpg",
+            "god": "字幕组:黑白字幕组",
+            "ladder": "no",
+            "url": "https://fitacg.com/anime/18516",
+            "isWatch": "yes"
+        },
+        {
+            "title": "肥宅勇者",
+            "time": "22:30~",
+            "episodes": "未知集数",
+            "image": "data/A2025_7_animes/images/肥宅勇者.jpg",
+            "god": "字幕组:",
+            "ladder": "no",
+            "url": "",
+            "isWatch": "no"
+        },
+        {
+            "title": "异人旅馆(杀手旅店)",
+            "time": "22:45~",
+            "episodes": "未知集数",
+            "image": "data/A2025_7_animes/images/异人旅馆杀手旅店.jpg",
+            "god": "字幕组:",
+            "ladder": "no",
+            "url": "",
+            "isWatch": "no"
+        },
+        {
+            "title": "小城日常",
+            "time": "23:00~",
+            "episodes": "(全12话)",
+            "image": "data/A2025_7_animes/images/小城日常.jpg",
+            "god": "字幕组:LoliHouse",
+            "ladder": "no",
+            "url": "https://fitacg.com/anime/17828",
+            "isWatch": "yes"
+        }
+    ]
+}

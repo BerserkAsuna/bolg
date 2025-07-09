@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', function() {
     // 加载动漫数据
-    fetch('data/A2025_4_animes/A2025_4_animes.json')
+    fetch('data/A2025_7_animes/A2025_7_animes.json')
     // fetch('data/animes.json')
         .then(response => response.json())
         .then(data => {

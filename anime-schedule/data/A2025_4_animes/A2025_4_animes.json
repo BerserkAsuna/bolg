@@ -1,49 +1,10 @@
 {
-    "monday": [{
-            "title": "中禅寺老师的灵怪讲义实录",
-            "time": "20:30~",
-            "episodes": "(全12话)",
-            "image": "data/A2025_4_animes/images/中禅寺老师的灵怪讲义实录.jpg",
-            "god": "字幕组:",
-            "ladder": "no",
-            "url": "",
-            "isWatch": "no"
-        },
-        {
-            "title": "测不准的阿波连第2期",
-            "time": "21:00~",
-            "episodes": "(全12话)",
-            "image": "data/A2025_4_animes/images/测不准的阿波连第2期.jpg",
-            "god": "字幕组:",
-            "ladder": "no",
-            "url": "",
-            "isWatch": "no"
-        },
-        {
-            "title": "杂旅",
-            "time": "21:00~",
-            "episodes": "(全12话)",
-            "image": "data/A2025_4_animes/images/杂旅.jpg",
-            "god": "字幕组:",
-            "ladder": "no",
-            "url": "",
-            "isWatch": "no"
-        },
+    "monday": [
         {
             "title": "夏日口袋",
             "time": "22:30~",
-            "episodes": "(全25话)",
+            "episodes": "(全26话)",
             "image": "data/A2025_4_animes/images/夏日口袋.jpg",
-            "god": "字幕组:",
-            "ladder": "no",
-            "url": "",
-            "isWatch": "no"
-        },
-        {
-            "title": "#COMPASS 2.0战斗天赋解析系统",
-            "time": "23:00~",
-            "episodes": "(全12话)",
-            "image": "data/A2025_4_animes/images/COMPASS_20战斗天赋解析系统.jpg",
             "god": "字幕组:",
             "ladder": "no",
             "url": "",
@@ -58,21 +19,62 @@
             "ladder": "no",
             "url": "",
             "isWatch": "no"
+        },
+        {
+            "title": "中禅寺老师的灵怪讲义实录",
+            "time": "未知时间",
+            "episodes": "(全12话)",
+            "image": "data/A2025_4_animes/images/中禅寺老师的灵怪讲义实录.jpg",
+            "god": "字幕组:",
+            "ladder": "no",
+            "url": "",
+            "isWatch": "no"
+        },
+        {
+            "title": "测不准的阿波连第2期",
+            "time": "未知时间",
+            "episodes": "(全12话)",
+            "image": "data/A2025_4_animes/images/测不准的阿波连第2期.jpg",
+            "god": "字幕组:",
+            "ladder": "no",
+            "url": "",
+            "isWatch": "no"
+        },
+        {
+            "title": "杂旅",
+            "time": "未知时间",
+            "episodes": "(全12话)",
+            "image": "data/A2025_4_animes/images/杂旅.jpg",
+            "god": "字幕组:",
+            "ladder": "no",
+            "url": "",
+            "isWatch": "no"
+        },
+        {
+            "title": "#COMPASS 2.0战斗天赋解析系统",
+            "time": "未知时间",
+            "episodes": "(全12话)",
+            "image": "data/A2025_4_animes/images/COMPASS_20战斗天赋解析系统.jpg",
+            "god": "字幕组:",
+            "ladder": "no",
+            "url": "",
+            "isWatch": "no"
         }
     ],
-    "tuesday": [{
+    "tuesday": [
+        {
             "title": "紫云寺家的孩子们",
-            "time": "21:30~",
+            "time": "未知时间",
             "episodes": "(全12话)",
             "image": "data/A2025_4_animes/images/紫云寺家的孩子们.jpg",
-            "god": "字幕组:LoliHouse",
+            "god": "字幕组:",
             "ladder": "no",
-            "url": "https://fitacg.com/anime/4427",
-            "isWatch": "yes"
+            "url": "",
+            "isWatch": "no"
         },
         {
             "title": "直到某魔女死去",
-            "time": "22:00~",
+            "time": "未知时间",
             "episodes": "(全12话)",
             "image": "data/A2025_4_animes/images/直到某魔女死去.jpg",
             "god": "字幕组:",
@@ -82,17 +84,17 @@
         },
         {
             "title": "阳光马达棒球场",
-            "time": "23:00~",
+            "time": "未知时间",
             "episodes": "(全12话)",
             "image": "data/A2025_4_animes/images/阳光马达棒球场.jpg",
-            "god": "字幕组:Ani",
+            "god": "字幕组:",
             "ladder": "no",
-            "url": "https://fitacg.com/anime/17979",
-            "isWatch": "yes"
+            "url": "",
+            "isWatch": "no"
         },
         {
             "title": "机动战士高达GQuuuuuuX",
-            "time": "23:29~",
+            "time": "未知时间",
             "episodes": "(全12话)",
             "image": "data/A2025_4_animes/images/机动战士高达GQuuuuuuX.jpg",
             "god": "字幕组:",
@@ -102,75 +104,16 @@
         },
         {
             "title": "启示录酒店",
-            "time": "24:34~",
+            "time": "未知时间",
             "episodes": "(全12话)",
             "image": "data/A2025_4_animes/images/启示录酒店.jpg",
-            "god": "字幕组:哔哩哔哩",
-            "ladder": "yes",
-            "url": "https://share.acgnx.se/search.php?sort_id=0&keyword=%E6%9C%AB%E6%97%A5",
-            "isWatch": "yes"
+            "god": "字幕组:",
+            "ladder": "no",
+            "url": "",
+            "isWatch": "no"
         }
     ],
-    "wednesday": [{
-            "title": "新 全力兔子第2期",
-            "time": "20:55~",
-            "episodes": "(全12话)",
-            "image": "data/A2025_4_animes/images/新_全力兔子第2期.jpg",
-            "god": "字幕组:",
-            "ladder": "no",
-            "url": "",
-            "isWatch": "no"
-        },
-        {
-            "title": "华Doll*",
-            "time": "21:30~",
-            "episodes": "(全12话)",
-            "image": "data/A2025_4_animes/images/华Doll.jpg",
-            "god": "字幕组:",
-            "ladder": "no",
-            "url": "",
-            "isWatch": "no"
-        },
-        {
-            "title": "拜托请穿上鹰峰同学",
-            "time": "21:30~",
-            "episodes": "(全12话)",
-            "image": "data/A2025_4_animes/images/拜托请穿上鹰峰同学.jpg",
-            "god": "字幕组:",
-            "ladder": "no",
-            "url": "",
-            "isWatch": "no"
-        },
-        {
-            "title": "记忆缝线",
-            "time": "22:45~",
-            "episodes": "(全12话)",
-            "image": "data/A2025_4_animes/images/记忆缝线.jpg",
-            "god": "字幕组:",
-            "ladder": "no",
-            "url": "",
-            "isWatch": "no"
-        },
-        {
-            "title": "圣女因太过完美被废除婚约卖到邻国",
-            "time": "23:00~",
-            "episodes": "(全12话)",
-            "image": "data/A2025_4_animes/images/圣女因太过完美被废除婚约卖到邻国.jpg",
-            "god": "字幕组:",
-            "ladder": "no",
-            "url": "",
-            "isWatch": "no"
-        },
-        {
-            "title": "三岁开始做王者",
-            "time": "23:45~",
-            "episodes": "P1=12话",
-            "image": "data/A2025_4_animes/images/三岁开始做王者.jpg",
-            "god": "字幕组:",
-            "ladder": "no",
-            "url": "",
-            "isWatch": "no"
-        },
+    "wednesday": [
         {
             "title": "外星人沐沐",
             "time": "23:00~",
@@ -180,11 +123,72 @@
             "ladder": "no",
             "url": "",
             "isWatch": "no"
+        },
+        {
+            "title": "新 全力兔子第2期",
+            "time": "未知时间",
+            "episodes": "(全11话)",
+            "image": "data/A2025_4_animes/images/新_全力兔子第2期.jpg",
+            "god": "字幕组:",
+            "ladder": "no",
+            "url": "",
+            "isWatch": "no"
+        },
+        {
+            "title": "华Doll*",
+            "time": "未知时间",
+            "episodes": "(全12话)",
+            "image": "data/A2025_4_animes/images/华Doll.jpg",
+            "god": "字幕组:",
+            "ladder": "no",
+            "url": "",
+            "isWatch": "no"
+        },
+        {
+            "title": "拜托请穿上鹰峰同学",
+            "time": "未知时间",
+            "episodes": "(全12话)",
+            "image": "data/A2025_4_animes/images/拜托请穿上鹰峰同学.jpg",
+            "god": "字幕组:",
+            "ladder": "no",
+            "url": "",
+            "isWatch": "no"
+        },
+        {
+            "title": "记忆缝线",
+            "time": "未知时间",
+            "episodes": "(全13话)",
+            "image": "data/A2025_4_animes/images/记忆缝线.jpg",
+            "god": "字幕组:",
+            "ladder": "no",
+            "url": "",
+            "isWatch": "no"
+        },
+        {
+            "title": "圣女因太过完美被废除婚约卖到邻国",
+            "time": "未知时间",
+            "episodes": "(全12话)",
+            "image": "data/A2025_4_animes/images/圣女因太过完美被废除婚约卖到邻国.jpg",
+            "god": "字幕组:",
+            "ladder": "no",
+            "url": "",
+            "isWatch": "no"
+        },
+        {
+            "title": "三岁开始做王者",
+            "time": "未知时间",
+            "episodes": "P1=12话",
+            "image": "data/A2025_4_animes/images/三岁开始做王者.jpg",
+            "god": "字幕组:",
+            "ladder": "no",
+            "url": "",
+            "isWatch": "no"
         }
     ],
-    "thursday": [{
+    "thursday": [
+        {
             "title": "你我战 第2期",
-            "time": "19:30~",
+            "time": "未知时间",
             "episodes": "(全12话)",
             "image": "data/A2025_4_animes/images/你我战_第2期.jpg",
             "god": "字幕组:",
@@ -194,7 +198,7 @@
         },
         {
             "title": "忍者与杀手二人组的日常生活",
-            "time": "21:00~",
+            "time": "未知时间",
             "episodes": "(全12话)",
             "image": "data/A2025_4_animes/images/忍者与杀手二人组的日常生活.jpg",
             "god": "字幕组:",
@@ -203,18 +207,8 @@
             "isWatch": "no"
         },
         {
-            "title": "被放逐的天才治愈师转为地下医生",
-            "time": "22:30~",
-            "episodes": "(全12话)",
-            "image": "data/A2025_4_animes/images/被放逐的天才治愈师转为地下医生.jpg",
-            "god": "字幕组:",
-            "ladder": "no",
-            "url": "",
-            "isWatch": "no"
-        },
-        {
             "title": "摇滚乐是淑女的嗜好",
-            "time": "22:56~",
+            "time": "未知时间",
             "episodes": "(全13话)",
             "image": "data/A2025_4_animes/images/摇滚乐是淑女的嗜好.jpg",
             "god": "字幕组:",
@@ -223,8 +217,18 @@
             "isWatch": "no"
         },
         {
+            "title": "被放逐的天才治愈师转为地下医生",
+            "time": "未知时间",
+            "episodes": "(全12话)",
+            "image": "data/A2025_4_animes/images/被放逐的天才治愈师转为地下医生.jpg",
+            "god": "字幕组:",
+            "ladder": "no",
+            "url": "",
+            "isWatch": "no"
+        },
+        {
             "title": "防风少年第2期",
-            "time": "23:26~",
+            "time": "未知时间",
             "episodes": "(全12话)",
             "image": "data/A2025_4_animes/images/防风少年第2期.jpg",
             "god": "字幕组:",
@@ -233,41 +237,12 @@
             "isWatch": "no"
         }
     ],
-    "friday": [{
-            "title": "男女之间存在友情吗(不存在)",
-            "time": "21:30~",
-            "episodes": "(全12话)",
-            "image": "data/A2025_4_animes/images/男女之间存在友情吗不存在.jpg",
-            "god": "字幕组:Ani",
-            "ladder": "no",
-            "url": "https://fitacg.com/search?category=anime&s=%E7%94%B7%E5%A5%B3%E4%B9%8B%E9%97%B4",
-            "isWatch": "yes"
-        },
+    "friday": [
         {
             "title": "药屋少女的呢喃第2期",
             "time": "未知时间",
             "episodes": "(全24话)",
             "image": "data/A2025_4_animes/images/药屋少女的呢喃第2期.jpg",
-            "god": "字幕组:豌豆字幕组",
-            "ladder": "no",
-            "url": "https://fitacg.com/search?category=anime&s=%E8%8D%AF%E5%B1%8B",
-            "isWatch": "yes"
-        },
-        {
-            "title": "再见 地球第2期",
-            "time": "22:30~",
-            "episodes": "(全12话)",
-            "image": "data/A2025_4_animes/images/再见_地球第2期.jpg",
-            "god": "字幕组:",
-            "ladder": "no",
-            "url": "",
-            "isWatch": "no"
-        },
-        {
-            "title": "推理要在晚餐后",
-            "time": "22:30~",
-            "episodes": "(全12话)",
-            "image": "data/A2025_4_animes/images/推理要在晚餐后.jpg",
             "god": "字幕组:",
             "ladder": "no",
             "url": "",
@@ -275,7 +250,7 @@
         },
         {
             "title": "神统记",
-            "time": "23:30~",
+            "time": "未知时间",
             "episodes": "(全12话)",
             "image": "data/A2025_4_animes/images/神统记.jpg",
             "god": "字幕组:",
@@ -284,8 +259,38 @@
             "isWatch": "no"
         },
         {
+            "title": "男女之间存在友情吗(不存在)",
+            "time": "未知时间",
+            "episodes": "(全12话)",
+            "image": "data/A2025_4_animes/images/男女之间存在友情吗不存在.jpg",
+            "god": "字幕组:",
+            "ladder": "no",
+            "url": "",
+            "isWatch": "no"
+        },
+        {
+            "title": "再见 地球第2期",
+            "time": "未知时间",
+            "episodes": "(全10话)",
+            "image": "data/A2025_4_animes/images/再见_地球第2期.jpg",
+            "god": "字幕组:",
+            "ladder": "no",
+            "url": "",
+            "isWatch": "no"
+        },
+        {
+            "title": "推理要在晚餐后",
+            "time": "未知时间",
+            "episodes": "(全12话)",
+            "image": "data/A2025_4_animes/images/推理要在晚餐后.jpg",
+            "god": "字幕组:",
+            "ladder": "no",
+            "url": "",
+            "isWatch": "no"
+        },
+        {
             "title": "炎炎消防队第3期 Part.1",
-            "time": "24:53~",
+            "time": "未知时间",
             "episodes": "P1=12话",
             "image": "data/A2025_4_animes/images/炎炎消防队第3期_Part1.jpg",
             "god": "字幕组:",
@@ -294,10 +299,11 @@
             "isWatch": "no"
         }
     ],
-    "saturday": [{
+    "saturday": [
+        {
             "title": "新 剑勇传说",
             "time": "16:30~",
-            "episodes": "(半年)",
+            "episodes": "(全24话)",
             "image": "data/A2025_4_animes/images/新_剑勇传说.jpg",
             "god": "字幕组:",
             "ladder": "no",
@@ -315,38 +321,18 @@
             "isWatch": "no"
         },
         {
-            "title": "打史莱姆300年第2期",
-            "time": "21:00~",
-            "episodes": "(全12话)",
-            "image": "data/A2025_4_animes/images/打史莱姆300年第2期.jpg",
-            "god": "字幕组:",
-            "ladder": "no",
-            "url": "",
-            "isWatch": "no"
-        },
-        {
-            "title": "罪恶装备 奋战两位裁决者",
-            "time": "21:30~",
-            "episodes": "(全12话)",
-            "image": "data/A2025_4_animes/images/罪恶装备_奋战两位裁决者.jpg",
-            "god": "字幕组:",
-            "ladder": "no",
-            "url": "",
-            "isWatch": "no"
-        },
-        {
             "title": "九龙大众浪漫",
-            "time": "22:00~",
+            "time": "未知时间",
             "episodes": "(全13话)",
             "image": "data/A2025_4_animes/images/九龙大众浪漫.jpg",
-            "god": "字幕组:Ani",
+            "god": "字幕组:",
             "ladder": "no",
-            "url": "https://fitacg.com/anime/18040",
-            "isWatch": "yes"
+            "url": "",
+            "isWatch": "no"
         },
         {
             "title": "黑执事第5期",
-            "time": "22:30~",
+            "time": "未知时间",
             "episodes": "(全13话)",
             "image": "data/A2025_4_animes/images/黑执事第5期.jpg",
             "god": "字幕组:",
@@ -355,44 +341,24 @@
             "isWatch": "no"
         },
         {
-            "title": "乡下大叔成为剑圣",
-            "time": "22:30~",
-            "episodes": "(全12话)",
-            "image": "data/A2025_4_animes/images/乡下大叔成为剑圣.jpg",
-            "god": "字幕组:LoliHouse",
-            "ladder": "no",
-            "url": "https://fitacg.com/anime/17713",
-            "isWatch": "yes"
-        },
-        {
-            "title": "我和neet且宅的女忍者同居生活",
+            "title": "mono女孩",
             "time": "未知时间",
-            "episodes": "(全24话)",
-            "image": "data/A2025_4_animes/images/我和neet且宅的女忍者同居生活.jpg",
+            "episodes": "(全12话)",
+            "image": "data/A2025_4_animes/images/mono女孩.jpg",
             "god": "字幕组:",
             "ladder": "no",
             "url": "",
             "isWatch": "no"
         },
         {
-            "title": "mono女孩",
-            "time": "23:00~",
-            "episodes": "(全13话)",
-            "image": "data/A2025_4_animes/images/mono女孩.jpg",
-            "god": "字幕组:Ani",
-            "ladder": "no",
-            "url": "https://fitacg.com/anime/17465",
-            "isWatch": "yes"
-        },
-        {
             "title": "时光流逝饭菜依旧美味",
-            "time": "23:30~",
+            "time": "未知时间",
             "episodes": "(全12话)",
             "image": "data/A2025_4_animes/images/时光流逝饭菜依旧美味.jpg",
-            "god": "字幕组:Ani",
+            "god": "字幕组:",
             "ladder": "no",
-            "url": "https://fitacg.com/search?category=anime&s=food",
-            "isWatch": "yes"
+            "url": "",
+            "isWatch": "no"
         },
         {
             "title": "脱离A级队伍的我和从前的徒弟们前往迷宫深处",
@@ -406,8 +372,8 @@
         },
         {
             "title": "古典之星",
-            "time": "24:00~",
-            "episodes": "(全12话)",
+            "time": "未知时间",
+            "episodes": "(全13话)",
             "image": "data/A2025_4_animes/images/古典之星.jpg",
             "god": "字幕组:",
             "ladder": "no",
@@ -415,9 +381,49 @@
             "isWatch": "no"
         },
         {
-            "title": "小市民系列第2期",
-            "time": "24:30~",
+            "title": "打史莱姆300年第2期",
+            "time": "未知时间",
             "episodes": "(全12话)",
+            "image": "data/A2025_4_animes/images/打史莱姆300年第2期.jpg",
+            "god": "字幕组:",
+            "ladder": "no",
+            "url": "",
+            "isWatch": "no"
+        },
+        {
+            "title": "罪恶装备 奋战两位裁决者",
+            "time": "未知时间",
+            "episodes": "(全8话)",
+            "image": "data/A2025_4_animes/images/罪恶装备_奋战两位裁决者.jpg",
+            "god": "字幕组:",
+            "ladder": "no",
+            "url": "",
+            "isWatch": "no"
+        },
+        {
+            "title": "乡下大叔成为剑圣",
+            "time": "未知时间",
+            "episodes": "(全12话)",
+            "image": "data/A2025_4_animes/images/乡下大叔成为剑圣.jpg",
+            "god": "字幕组:",
+            "ladder": "no",
+            "url": "",
+            "isWatch": "no"
+        },
+        {
+            "title": "我和neet且宅的女忍者同居生活",
+            "time": "未知时间",
+            "episodes": "(全24话)",
+            "image": "data/A2025_4_animes/images/我和neet且宅的女忍者同居生活.jpg",
+            "god": "字幕组:",
+            "ladder": "no",
+            "url": "",
+            "isWatch": "no"
+        },
+        {
+            "title": "小市民系列第2期",
+            "time": "未知时间",
+            "episodes": "(全11话)",
             "image": "data/A2025_4_animes/images/小市民系列第2期.jpg",
             "god": "字幕组:",
             "ladder": "no",
@@ -426,7 +432,7 @@
         },
         {
             "title": "我是星际国家的恶德领主",
-            "time": "25:00~",
+            "time": "未知时间",
             "episodes": "(全12话)",
             "image": "data/A2025_4_animes/images/我是星际国家的恶德领主.jpg",
             "god": "字幕组:",
@@ -435,7 +441,8 @@
             "isWatch": "no"
         }
     ],
-    "sunday": [{
+    "sunday": [
+        {
             "title": "你与偶像光之美少女",
             "time": "未知时间",
             "episodes": "(年番)",
@@ -466,24 +473,54 @@
             "isWatch": "no"
         },
         {
-            "title": "赛马娘芦毛灰姑娘",
-            "time": "15:30~",
-            "episodes": "P1=13话",
-            "image": "data/A2025_4_animes/images/赛马娘芦毛灰姑娘.jpg",
-            "god": "字幕组:小栗帽后援会",
-            "ladder": "no",
-            "url": "https://fitacg.com/anime/17817",
-            "isWatch": "yes"
-        },
-        {
             "title": "魔女与使魔",
             "time": "16:00~",
-            "episodes": "(全25话)",
+            "episodes": "(全26话)",
             "image": "data/A2025_4_animes/images/魔女与使魔.jpg",
-            "god": "字幕组:Ani",
+            "god": "字幕组:",
             "ladder": "no",
-            "url": "https://fitacg.com/anime/17821",
-            "isWatch": "yes"
+            "url": "",
+            "isWatch": "no"
+        },
+        {
+            "title": "赛马娘芦毛灰姑娘",
+            "time": "未知时间",
+            "episodes": "P1=13话",
+            "image": "data/A2025_4_animes/images/赛马娘芦毛灰姑娘.jpg",
+            "god": "字幕组:",
+            "ladder": "no",
+            "url": "",
+            "isWatch": "no"
+        },
+        {
+            "title": "战队大失格第2期",
+            "time": "未知时间",
+            "episodes": "(全12话)",
+            "image": "data/A2025_4_animes/images/战队大失格第2期.jpg",
+            "god": "字幕组:",
+            "ladder": "no",
+            "url": "",
+            "isWatch": "no"
+        },
+        {
+            "title": "LAZARUS",
+            "time": "未知时间",
+            "episodes": "(全13话)",
+            "image": "data/A2025_4_animes/images/LAZARUS.jpg",
+            "god": "字幕组:",
+            "ladder": "no",
+            "url": "",
+            "isWatch": "no"
+        },
+        {
+            "title": "觉醒前世记忆的白豚贵族决定培养弟弟",
+            "time": "未知时间",
+            "episodes": "(全12话)",
+            "image": "data/A2025_4_animes/images/觉醒前世记忆的白豚贵族决定培养弟弟.jpg",
+            "god": "字幕组:",
+            "ladder": "no",
+            "url": "",
+            "isWatch": "no"
         },
         {
             "title": "魔神创造传",
@@ -497,7 +534,7 @@
         },
         {
             "title": "使人误解的工房主",
-            "time": "21:30~",
+            "time": "未知时间",
             "episodes": "(全12话)",
             "image": "data/A2025_4_animes/images/使人误解的工房主.jpg",
             "god": "字幕组:",
@@ -507,7 +544,7 @@
         },
         {
             "title": "前桥魔女",
-            "time": "21:30~",
+            "time": "未知时间",
             "episodes": "(全12话)",
             "image": "data/A2025_4_animes/images/前桥魔女.jpg",
             "god": "字幕组:",
@@ -517,7 +554,7 @@
         },
         {
             "title": "受到猩猩之神庇护的大小姐",
-            "time": "22:30~",
+            "time": "未知时间",
             "episodes": "(全12话)",
             "image": "data/A2025_4_animes/images/受到猩猩之神庇护的大小姐.jpg",
             "god": "字幕组:",
@@ -526,28 +563,8 @@
             "isWatch": "no"
         },
         {
-            "title": "战队大失格第2期",
-            "time": "22:30~",
-            "episodes": "(全12话)",
-            "image": "data/A2025_4_animes/images/战队大失格第2期.jpg",
-            "god": "字幕组:",
-            "ladder": "no",
-            "url": "",
-            "isWatch": "no"
-        },
-        {
-            "title": "LAZARUS",
-            "time": "22:45~",
-            "episodes": "(全13话)",
-            "image": "data/A2025_4_animes/images/LAZARUS.jpg",
-            "god": "字幕组:",
-            "ladder": "no",
-            "url": "",
-            "isWatch": "no"
-        },
-        {
             "title": "爱有些沉重的黑暗精灵从异世界追过来了",
-            "time": "24:05~",
+            "time": "未知时间",
             "episodes": "(全12话)",
             "image": "data/A2025_4_animes/images/爱有些沉重的黑暗精灵从异世界追过来了.jpg",
             "god": "字幕组:",
@@ -557,19 +574,9 @@
         },
         {
             "title": "快藏起来玛琪娜同学",
-            "time": "24:20~",
+            "time": "未知时间",
             "episodes": "(全12话)",
             "image": "data/A2025_4_animes/images/快藏起来玛琪娜同学.jpg",
-            "god": "字幕组:",
-            "ladder": "no",
-            "url": "",
-            "isWatch": "no"
-        },
-        {
-            "title": "觉醒前世记忆的白豚贵族决定培养弟弟",
-            "time": "18:30~",
-            "episodes": "未知集数",
-            "image": "data/A2025_4_animes/images/觉醒前世记忆的白豚贵族决定培养弟弟.jpg",
             "god": "字幕组:",
             "ladder": "no",
             "url": "",
