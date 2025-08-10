@@ -64,9 +64,9 @@
             "time": "24:00~",
             "episodes": "(全12话)",
             "image": "data/A2025_7_animes/images/我怎么可能成为你的恋人_不行不行不是不可能.jpg",
-            "god": "字幕组:",
+            "god": "字幕组:哔哩哔哩",
             "ladder": "no",
-            "url": "https://fitacg.com/anime/17954",
+            "url": "https://www.bilibili.com/video/BV15otzzREhk?spm_id_from=333.788.videopod.sections&vd_source=86043bdb70c8cb5448ea7b4b8adcd145&p=5",
             "isWatch": "yes"
         },
         {
@@ -280,7 +280,7 @@
             "god": "字幕组:Ani",
             "ladder": "no",
             "url": "https://fitacg.com/anime/18246",
-            "isWatch": "yes"
+            "isWatch": "no"
         },
         {
             "title": "稗记舞咏(寻神的旅途)",
@@ -341,7 +341,7 @@
             "god": "字幕组:Ani",
             "ladder": "no",
             "url": "https://fitacg.com/anime/18492",
-            "isWatch": "yes"
+            "isWatch": "no"
         }, {
             "title": "为丑女献上花束",
             "time": "21:30~",
@@ -418,9 +418,9 @@
             "episodes": "未知集数",
             "image": "data/A2025_7_animes/images/拔作岛.jpg",
             "god": "字幕组:",
-            "ladder": "no",
-            "url": "",
-            "isWatch": "no"
+            "ladder": "yes",
+            "url": "https://share.acgnx.se/search.php?sort_id=0&keyword=%E6%8B%94%E4%BD%9C%E5%B2%9B",
+            "isWatch": "yes"
         }
     ],
     "saturday": [{
@@ -508,7 +508,7 @@
             "time": "23:00~",
             "episodes": "(全12话)",
             "image": "data/A2025_7_animes/images/更衣人偶坠入爱河第2期.jpg",
-            "god": "字幕组:",
+            "god": "字幕组:Ani",
             "ladder": "no",
             "url": "https://fitacg.com/anime/18513",
             "isWatch": "yes"
